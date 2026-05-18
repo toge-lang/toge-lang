@@ -1,4 +1,5 @@
 # toge
+[toge-logo](Toge.png)  
 **toge** is an experimental, developing, new programming language, that, being honest here, is made for myself, I and me. '-'  
 It has a not-so-conventional syntax, and doesn't follow as many rules as other languages, but that's ok. :)  
 
